@@ -1,0 +1,6 @@
+{
+  "save": null,
+  "player": null,
+  "ai": null,
+  "note": "复制为 campaign.json 后填写：player=你玩的国家标签，ai=AI 玩的国家标签；save=null 表示自动用最新存档"
+}

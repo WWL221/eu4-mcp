@@ -1,0 +1,10 @@
+node_modules/
+campaign.json
+mod-template/
+run/
+*.log
+.DS_Store
+
+# 同目录下的其它模组项目（不属于本 MCP，单独发布时再纳入）
+cheat-mod/
+perf-mod/
